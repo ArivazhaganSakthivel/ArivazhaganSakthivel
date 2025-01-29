@@ -6,10 +6,6 @@ About Me
 
 💻 I specialize in building responsive web applications and have hands-on experience in developing front-end and back-end solutions. My projects include a blog website, an e-commerce platform, and a movie booking application, showcasing my ability to create dynamic, user-friendly experiences.
 
-🌱 I’m currently expanding my expertise in cloud technologies and exploring AI/ML integration in web development. I’m passionate about leveraging technology to solve real-world problems and create impactful solutions.
-
-🚀 I’m excited to collaborate on open-source projects and contribute to innovative teams. Let’s connect and build something amazing together!
-
 📫 Reach me at arivazhaganski@gmail.com or connect with me on LinkedIn.
 
 ## 🌐 Socials:
