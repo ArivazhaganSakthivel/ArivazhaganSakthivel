@@ -1,8 +1,16 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m Arivazhagan S, a passionate Full Stack Developer with a strong <br>foundation in Java, React.js, Node.js, and MongoDB. Transitioning from <br>a successful career as an online math tutor, I bring exceptional <br>problem-solving skills, attention to detail, and a knack for <br>communicating complex concepts effectively.
+About Me
+👋 Hi, I’m Arivazhagan S, a passionate Full Stack Developer with a strong foundation in Java, React.js, Node.js, and MongoDB. Transitioning from a successful career as an online math tutor, I bring exceptional problem-solving skills, attention to detail, and a knack for communicating complex concepts effectively.
 
+💻 I specialize in building responsive web applications and have hands-on experience in developing front-end and back-end solutions. My projects include a blog website, an e-commerce platform, and a movie booking application, showcasing my ability to create dynamic, user-friendly experiences.
+
+🌱 I’m currently expanding my expertise in cloud technologies and exploring AI/ML integration in web development. I’m passionate about leveraging technology to solve real-world problems and create impactful solutions.
+
+🚀 I’m excited to collaborate on open-source projects and contribute to innovative teams. Let’s connect and build something amazing together!
+
+📫 Reach me at arivazhaganski@gmail.com or connect with me on LinkedIn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arivazhagansathivel) 
